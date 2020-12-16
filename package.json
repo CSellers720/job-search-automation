@@ -1,0 +1,16 @@
+{
+  "name": "job-search-automation",
+  "version": "1.0.0",
+  "description": "generate job search documents",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "csellers720",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "prompts": "^2.4.0"
+  }
+}
